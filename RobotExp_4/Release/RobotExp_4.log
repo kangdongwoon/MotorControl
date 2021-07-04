@@ -1,0 +1,92 @@
+﻿  stdafx.cpp
+  COCX.cpp
+  Comm.cpp
+  CommWork.cpp
+D:\2020 NEW 동운\전공 3-2\로봇학실험4\로실4_동운\RobotExp_4\RobotExp_4\RobotExp_4\CommWork.cpp(58,43): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2020 NEW 동운\전공 3-2\로봇학실험4\로실4_동운\RobotExp_4\RobotExp_4\RobotExp_4\CommWork.cpp(59,44): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2020 NEW 동운\전공 3-2\로봇학실험4\로실4_동운\RobotExp_4\RobotExp_4\RobotExp_4\CommWork.cpp(60,42): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  DeviceListReader.cpp
+D:\2020 NEW 동운\전공 3-2\로봇학실험4\로실4_동운\RobotExp_4\RobotExp_4\RobotExp_4\DeviceListReader.cpp(94,34): error C2065: 'LkeyStr': 선언되지 않은 식별자입니다.
+D:\2020 NEW 동운\전공 3-2\로봇학실험4\로실4_동운\RobotExp_4\RobotExp_4\RobotExp_4\DeviceListReader.cpp(110,1): error C2440: '초기화 중': 'TCHAR [20]'에서 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'(으)로 변환할 수 없습니다.
+D:\2020 NEW 동운\전공 3-2\로봇학실험4\로실4_동운\RobotExp_4\RobotExp_4\RobotExp_4\DeviceListReader.cpp(110,1): message : 소스 형식을 가져올 수 있는 생성자가 없거나 생성자 오버로드 확인이 모호합니다.
+  GraphDlg.cpp
+  NTGraph.cpp
+  ODE.cpp
+D:\2020 NEW 동운\전공 3-2\로봇학실험4\로실4_동운\RobotExp_4\RobotExp_4\RobotExp_4\ODE.h(16,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'drawstuff\drawstuff.h': No such file or directory
+  ODEWork.cpp
+D:\2020 NEW 동운\전공 3-2\로봇학실험4\로실4_동운\RobotExp_4\RobotExp_4\RobotExp_4\ODE.h(16,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'drawstuff\drawstuff.h': No such file or directory
+  RobotExp_4.cpp
+  RobotExp_4Dlg.cpp
+D:\2020 NEW 동운\전공 3-2\로봇학실험4\로실4_동운\RobotExp_4\RobotExp_4\RobotExp_4\RobotExp_4Dlg.cpp(137,30): error C2039: 'SetWindowTextA': 'CEdit'의 멤버가 아닙니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\atlmfc\include\afxwin.h(3821): message : 'CEdit' 선언을 참조하십시오.
+D:\2020 NEW 동운\전공 3-2\로봇학실험4\로실4_동운\RobotExp_4\RobotExp_4\RobotExp_4\RobotExp_4Dlg.cpp(138,30): error C2039: 'SetWindowTextA': 'CEdit'의 멤버가 아닙니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\atlmfc\include\afxwin.h(3821): message : 'CEdit' 선언을 참조하십시오.
+D:\2020 NEW 동운\전공 3-2\로봇학실험4\로실4_동운\RobotExp_4\RobotExp_4\RobotExp_4\RobotExp_4Dlg.cpp(139,27): error C2039: 'SetWindowTextA': 'CEdit'의 멤버가 아닙니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\atlmfc\include\afxwin.h(3821): message : 'CEdit' 선언을 참조하십시오.
+D:\2020 NEW 동운\전공 3-2\로봇학실험4\로실4_동운\RobotExp_4\RobotExp_4\RobotExp_4\RobotExp_4Dlg.cpp(140,27): error C2039: 'SetWindowTextA': 'CEdit'의 멤버가 아닙니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\atlmfc\include\afxwin.h(3821): message : 'CEdit' 선언을 참조하십시오.
+D:\2020 NEW 동운\전공 3-2\로봇학실험4\로실4_동운\RobotExp_4\RobotExp_4\RobotExp_4\RobotExp_4Dlg.cpp(141,27): error C2039: 'SetWindowTextA': 'CEdit'의 멤버가 아닙니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\atlmfc\include\afxwin.h(3821): message : 'CEdit' 선언을 참조하십시오.
+D:\2020 NEW 동운\전공 3-2\로봇학실험4\로실4_동운\RobotExp_4\RobotExp_4\RobotExp_4\RobotExp_4Dlg.cpp(143,30): error C2039: 'SetWindowTextA': 'CEdit'의 멤버가 아닙니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\atlmfc\include\afxwin.h(3821): message : 'CEdit' 선언을 참조하십시오.
+D:\2020 NEW 동운\전공 3-2\로봇학실험4\로실4_동운\RobotExp_4\RobotExp_4\RobotExp_4\RobotExp_4Dlg.cpp(144,30): error C2039: 'SetWindowTextA': 'CEdit'의 멤버가 아닙니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\atlmfc\include\afxwin.h(3821): message : 'CEdit' 선언을 참조하십시오.
+D:\2020 NEW 동운\전공 3-2\로봇학실험4\로실4_동운\RobotExp_4\RobotExp_4\RobotExp_4\RobotExp_4Dlg.cpp(145,27): error C2039: 'SetWindowTextA': 'CEdit'의 멤버가 아닙니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\atlmfc\include\afxwin.h(3821): message : 'CEdit' 선언을 참조하십시오.
+D:\2020 NEW 동운\전공 3-2\로봇학실험4\로실4_동운\RobotExp_4\RobotExp_4\RobotExp_4\RobotExp_4Dlg.cpp(146,27): error C2039: 'SetWindowTextA': 'CEdit'의 멤버가 아닙니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\atlmfc\include\afxwin.h(3821): message : 'CEdit' 선언을 참조하십시오.
+D:\2020 NEW 동운\전공 3-2\로봇학실험4\로실4_동운\RobotExp_4\RobotExp_4\RobotExp_4\RobotExp_4Dlg.cpp(147,27): error C2039: 'SetWindowTextA': 'CEdit'의 멤버가 아닙니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\atlmfc\include\afxwin.h(3821): message : 'CEdit' 선언을 참조하십시오.
+D:\2020 NEW 동운\전공 3-2\로봇학실험4\로실4_동운\RobotExp_4\RobotExp_4\RobotExp_4\RobotExp_4Dlg.cpp(237,30): error C2039: 'GetWindowTextA': 'CEdit'의 멤버가 아닙니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\atlmfc\include\afxwin.h(3821): message : 'CEdit' 선언을 참조하십시오.
+D:\2020 NEW 동운\전공 3-2\로봇학실험4\로실4_동운\RobotExp_4\RobotExp_4\RobotExp_4\RobotExp_4Dlg.cpp(239,30): error C2039: 'GetWindowTextA': 'CEdit'의 멤버가 아닙니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\atlmfc\include\afxwin.h(3821): message : 'CEdit' 선언을 참조하십시오.
+D:\2020 NEW 동운\전공 3-2\로봇학실험4\로실4_동운\RobotExp_4\RobotExp_4\RobotExp_4\RobotExp_4Dlg.cpp(250,27): error C2039: 'SetWindowTextA': 'CEdit'의 멤버가 아닙니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\atlmfc\include\afxwin.h(3821): message : 'CEdit' 선언을 참조하십시오.
+D:\2020 NEW 동운\전공 3-2\로봇학실험4\로실4_동운\RobotExp_4\RobotExp_4\RobotExp_4\RobotExp_4Dlg.cpp(252,27): error C2039: 'SetWindowTextA': 'CEdit'의 멤버가 아닙니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\atlmfc\include\afxwin.h(3821): message : 'CEdit' 선언을 참조하십시오.
+D:\2020 NEW 동운\전공 3-2\로봇학실험4\로실4_동운\RobotExp_4\RobotExp_4\RobotExp_4\RobotExp_4Dlg.cpp(254,27): error C2039: 'SetWindowTextA': 'CEdit'의 멤버가 아닙니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\atlmfc\include\afxwin.h(3821): message : 'CEdit' 선언을 참조하십시오.
+D:\2020 NEW 동운\전공 3-2\로봇학실험4\로실4_동운\RobotExp_4\RobotExp_4\RobotExp_4\RobotExp_4Dlg.cpp(266,30): error C2039: 'SetWindowTextA': 'CEdit'의 멤버가 아닙니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\atlmfc\include\afxwin.h(3821): message : 'CEdit' 선언을 참조하십시오.
+D:\2020 NEW 동운\전공 3-2\로봇학실험4\로실4_동운\RobotExp_4\RobotExp_4\RobotExp_4\RobotExp_4Dlg.cpp(267,30): error C2039: 'SetWindowTextA': 'CEdit'의 멤버가 아닙니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\atlmfc\include\afxwin.h(3821): message : 'CEdit' 선언을 참조하십시오.
+D:\2020 NEW 동운\전공 3-2\로봇학실험4\로실4_동운\RobotExp_4\RobotExp_4\RobotExp_4\RobotExp_4Dlg.cpp(268,27): error C2039: 'SetWindowTextA': 'CEdit'의 멤버가 아닙니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\atlmfc\include\afxwin.h(3821): message : 'CEdit' 선언을 참조하십시오.
+D:\2020 NEW 동운\전공 3-2\로봇학실험4\로실4_동운\RobotExp_4\RobotExp_4\RobotExp_4\RobotExp_4Dlg.cpp(269,27): error C2039: 'SetWindowTextA': 'CEdit'의 멤버가 아닙니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\atlmfc\include\afxwin.h(3821): message : 'CEdit' 선언을 참조하십시오.
+D:\2020 NEW 동운\전공 3-2\로봇학실험4\로실4_동운\RobotExp_4\RobotExp_4\RobotExp_4\RobotExp_4Dlg.cpp(270,27): error C2039: 'SetWindowTextA': 'CEdit'의 멤버가 아닙니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\atlmfc\include\afxwin.h(3821): message : 'CEdit' 선언을 참조하십시오.
+D:\2020 NEW 동운\전공 3-2\로봇학실험4\로실4_동운\RobotExp_4\RobotExp_4\RobotExp_4\RobotExp_4Dlg.cpp(272,30): error C2039: 'SetWindowTextA': 'CEdit'의 멤버가 아닙니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\atlmfc\include\afxwin.h(3821): message : 'CEdit' 선언을 참조하십시오.
+D:\2020 NEW 동운\전공 3-2\로봇학실험4\로실4_동운\RobotExp_4\RobotExp_4\RobotExp_4\RobotExp_4Dlg.cpp(273,30): error C2039: 'SetWindowTextA': 'CEdit'의 멤버가 아닙니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\atlmfc\include\afxwin.h(3821): message : 'CEdit' 선언을 참조하십시오.
+D:\2020 NEW 동운\전공 3-2\로봇학실험4\로실4_동운\RobotExp_4\RobotExp_4\RobotExp_4\RobotExp_4Dlg.cpp(274,27): error C2039: 'SetWindowTextA': 'CEdit'의 멤버가 아닙니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\atlmfc\include\afxwin.h(3821): message : 'CEdit' 선언을 참조하십시오.
+D:\2020 NEW 동운\전공 3-2\로봇학실험4\로실4_동운\RobotExp_4\RobotExp_4\RobotExp_4\RobotExp_4Dlg.cpp(275,27): error C2039: 'SetWindowTextA': 'CEdit'의 멤버가 아닙니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\atlmfc\include\afxwin.h(3821): message : 'CEdit' 선언을 참조하십시오.
+D:\2020 NEW 동운\전공 3-2\로봇학실험4\로실4_동운\RobotExp_4\RobotExp_4\RobotExp_4\RobotExp_4Dlg.cpp(276,27): error C2039: 'SetWindowTextA': 'CEdit'의 멤버가 아닙니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\atlmfc\include\afxwin.h(3821): message : 'CEdit' 선언을 참조하십시오.
+D:\2020 NEW 동운\전공 3-2\로봇학실험4\로실4_동운\RobotExp_4\RobotExp_4\RobotExp_4\RobotExp_4Dlg.cpp(335,30): error C2039: 'SetWindowTextA': 'CEdit'의 멤버가 아닙니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\atlmfc\include\afxwin.h(3821): message : 'CEdit' 선언을 참조하십시오.
+D:\2020 NEW 동운\전공 3-2\로봇학실험4\로실4_동운\RobotExp_4\RobotExp_4\RobotExp_4\RobotExp_4Dlg.cpp(337,30): error C2039: 'SetWindowTextA': 'CEdit'의 멤버가 아닙니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\atlmfc\include\afxwin.h(3821): message : 'CEdit' 선언을 참조하십시오.
+D:\2020 NEW 동운\전공 3-2\로봇학실험4\로실4_동운\RobotExp_4\RobotExp_4\RobotExp_4\RobotExp_4Dlg.cpp(341,27): error C2039: 'SetWindowTextA': 'CEdit'의 멤버가 아닙니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\atlmfc\include\afxwin.h(3821): message : 'CEdit' 선언을 참조하십시오.
+D:\2020 NEW 동운\전공 3-2\로봇학실험4\로실4_동운\RobotExp_4\RobotExp_4\RobotExp_4\RobotExp_4Dlg.cpp(343,27): error C2039: 'SetWindowTextA': 'CEdit'의 멤버가 아닙니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\atlmfc\include\afxwin.h(3821): message : 'CEdit' 선언을 참조하십시오.
+D:\2020 NEW 동운\전공 3-2\로봇학실험4\로실4_동운\RobotExp_4\RobotExp_4\RobotExp_4\RobotExp_4Dlg.cpp(345,27): error C2039: 'SetWindowTextA': 'CEdit'의 멤버가 아닙니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\atlmfc\include\afxwin.h(3821): message : 'CEdit' 선언을 참조하십시오.
+D:\2020 NEW 동운\전공 3-2\로봇학실험4\로실4_동운\RobotExp_4\RobotExp_4\RobotExp_4\RobotExp_4Dlg.cpp(380,27): error C2039: 'GetWindowTextA': 'CEdit'의 멤버가 아닙니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\atlmfc\include\afxwin.h(3821): message : 'CEdit' 선언을 참조하십시오.
+D:\2020 NEW 동운\전공 3-2\로봇학실험4\로실4_동운\RobotExp_4\RobotExp_4\RobotExp_4\RobotExp_4Dlg.cpp(382,27): error C2039: 'GetWindowTextA': 'CEdit'의 멤버가 아닙니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\atlmfc\include\afxwin.h(3821): message : 'CEdit' 선언을 참조하십시오.
+D:\2020 NEW 동운\전공 3-2\로봇학실험4\로실4_동운\RobotExp_4\RobotExp_4\RobotExp_4\RobotExp_4Dlg.cpp(384,27): error C2039: 'GetWindowTextA': 'CEdit'의 멤버가 아닙니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\atlmfc\include\afxwin.h(3821): message : 'CEdit' 선언을 참조하십시오.
+D:\2020 NEW 동운\전공 3-2\로봇학실험4\로실4_동운\RobotExp_4\RobotExp_4\RobotExp_4\RobotExp_4Dlg.cpp(390,30): error C2039: 'SetWindowTextA': 'CEdit'의 멤버가 아닙니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\atlmfc\include\afxwin.h(3821): message : 'CEdit' 선언을 참조하십시오.
+D:\2020 NEW 동운\전공 3-2\로봇학실험4\로실4_동운\RobotExp_4\RobotExp_4\RobotExp_4\RobotExp_4Dlg.cpp(392,30): error C2039: 'SetWindowTextA': 'CEdit'의 멤버가 아닙니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\atlmfc\include\afxwin.h(3821): message : 'CEdit' 선언을 참조하십시오.
+  SharedMemory.cpp
+  SystemMemory.cpp
+  ThreadWorker.cpp
